@@ -46,5 +46,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 </a>
 
-## 📖 BLOG
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/seobi-97)
